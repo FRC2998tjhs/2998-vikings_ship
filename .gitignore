@@ -185,3 +185,6 @@ compile_commands.json
 
 # Eclipse generated file for annotation processors
 .factorypath
+
+#custom
+2998-viking_ship.code-workspace
